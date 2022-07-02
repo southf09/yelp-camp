@@ -1,0 +1,1 @@
+This is the final project of Colt Steele's Web Development bootcamp. It brings together everything learned over the course of the past few months.
